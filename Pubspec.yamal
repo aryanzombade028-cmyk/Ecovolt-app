@@ -1,0 +1,11 @@
+name: ecovolt_app
+description: Ecovolt Hadapsar Charging App
+version: 1.0.0
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  percent_indicator: ^4.2.3
+flutter:
+  uses-material-design: true
